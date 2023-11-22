@@ -2,6 +2,10 @@ using Design_Patterns.Creational_Patterns.Builder;
 
 namespace Main;
 
+/// <summary>
+/// The Builder design pattern separates the construction of a complex object from its representation
+/// so that the same construction process can create different representations.
+/// </summary>
 public static class BuilderExample
 {
     public static void ShowExample()
