@@ -8,6 +8,7 @@ public static class AdapterExample
     {
         Console.WriteLine("\nStart: Adapter Example\n");
         
+        ////  is not working
         // var vehicles = new Vehicle[] {new Car(), new Scooter(), new Boat()};
         // foreach (var vehicle in vehicles)
         // {

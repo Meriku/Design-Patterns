@@ -11,3 +11,5 @@ Console.WriteLine("\n---------------------------------------------------------")
 
 AdapterExample.ShowExample();
 Console.WriteLine("\n---------------------------------------------------------");
+
+BridgeExample.ShowExample();
